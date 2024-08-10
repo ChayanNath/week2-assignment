@@ -1,0 +1,5 @@
+{
+  "apiUrl": "https://api.coindesk.com/v1/bpi/currentprice/BTC.json",
+  "fetchInterval": 30000,
+  "outputPath": "./data/bitcoin_price.json"
+}
